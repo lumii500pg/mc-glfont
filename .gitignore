@@ -1,0 +1,40 @@
+# Gradle and other
+/.gradle/
+*.log
+*.DS_Store
+/build/
+/out/
+/classes/
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# IntelliJ
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+.settings/
+.vscode/
+/bin/
+.classpath
+.project
+
+# Maven
+/log/
+/target/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# client
+/run/
+
+# Native project
+glfont-native/glfont_native/cmake-build-*
+glfont-native/glfont_native/.idea/

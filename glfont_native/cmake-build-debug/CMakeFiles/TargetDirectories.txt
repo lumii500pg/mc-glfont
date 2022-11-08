@@ -1,0 +1,3 @@
+C:/Users/beast/Documents/Projects/glfont/glfont_native/cmake-build-debug/CMakeFiles/glfont_native.dir
+C:/Users/beast/Documents/Projects/glfont/glfont_native/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/beast/Documents/Projects/glfont/glfont_native/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "glf",
+    "name": "GLFont",
+    "description": "A mod which replaces the Minecraft FontRenderer with a more performant one which can also load TTF-Fonts.",
+    "version": "1.0.0-release.1",
+    "mcversion": "1.8.9",
+    "logo": "assets/icons/logo.png",
+    "authorList": [
+      "BeastLe9enD",
+      "lumii. (lucy)"
+    ],
+    "credits": "I'm thanking BeastLe9enD for helping me with the FontRenderer because I learned a lot of new things through the project in cpp as well as in java."
+  }
+]

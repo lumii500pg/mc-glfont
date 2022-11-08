@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.6",
+  "package": "io.karma.glfont.injection.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "client.MixinMinecraft",
+    "client.client.gui.MixinGuiMainMenu"
+  ],
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "glfont-refmap.json"
+}

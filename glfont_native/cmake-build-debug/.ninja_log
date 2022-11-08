@@ -1,0 +1,26 @@
+# ninja log v5
+0	1089	6798904896603709	CMakeFiles/glfont_native.dir/src/glfont_native.cpp.obj	9d277aa2d8cd5edf
+1092	1269	6798904896603709	glfont_native.dll	c21cead5daeb96f6
+1092	1269	6798904896603709	glfont_native.lib	c21cead5daeb96f6
+0	7	0	clean	a51e8624eb844573
+1	961	6798907650279007	CMakeFiles/glfont_native.dir/src/glfont_native.cpp.obj	9d277aa2d8cd5edf
+976	1091	6798907650279007	glfont_native.dll	c21cead5daeb96f6
+976	1091	6798907650279007	glfont_native.lib	c21cead5daeb96f6
+1	1078	6798910481607851	CMakeFiles/glfont_native.dir/src/glfont_native.cpp.obj	9d277aa2d8cd5edf
+1086	1208	6798910481607851	glfont_native.dll	c21cead5daeb96f6
+1086	1208	6798910481607851	glfont_native.lib	c21cead5daeb96f6
+1	1009	6798911101047478	CMakeFiles/glfont_native.dir/src/glfont_native.cpp.obj	9d277aa2d8cd5edf
+1023	1180	6798911101047478	glfont_native.dll	c21cead5daeb96f6
+1023	1180	6798911101047478	glfont_native.lib	c21cead5daeb96f6
+1	936	6798912188215298	CMakeFiles/glfont_native.dir/src/glfont_native.cpp.obj	9d277aa2d8cd5edf
+938	1065	6798912188215298	glfont_native.dll	c21cead5daeb96f6
+938	1065	6798912188215298	glfont_native.lib	c21cead5daeb96f6
+0	952	6798913174609876	CMakeFiles/glfont_native.dir/src/glfont_native.cpp.obj	9d277aa2d8cd5edf
+967	1078	6798913174609876	glfont_native.dll	c21cead5daeb96f6
+967	1078	6798913174609876	glfont_native.lib	c21cead5daeb96f6
+1	895	6798913296152724	CMakeFiles/glfont_native.dir/src/glfont_native.cpp.obj	9d277aa2d8cd5edf
+900	1014	6798913296152724	glfont_native.dll	c21cead5daeb96f6
+900	1014	6798913296152724	glfont_native.lib	c21cead5daeb96f6
+0	998	6798914311401701	CMakeFiles/glfont_native.dir/src/glfont_native.cpp.obj	9d277aa2d8cd5edf
+1004	1153	6798914311401701	glfont_native.dll	c21cead5daeb96f6
+1004	1153	6798914311401701	glfont_native.lib	c21cead5daeb96f6
